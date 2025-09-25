@@ -1,0 +1,1 @@
+﻿Triangulo T = new Triangulo();
